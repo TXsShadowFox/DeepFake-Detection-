@@ -1,5 +1,8 @@
 # DeepFake-Detection-
 
+# Method used to detect deepfake:- XCEPTIONET
+
+
 1. Dataset used :
    1. FaceForensics++ Baseline 
   https://www.kaggle.com/code/robikscube/faceforensics-baseline-dlib-no-internet
@@ -17,4 +20,3 @@
   https://www.kaggle.com/code/viditpurohit/deepfake-image-detection-resnet50
 
 
-Method used to detect deepfake:- XCEPTIONET
